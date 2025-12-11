@@ -21,6 +21,8 @@ for i in its:
 print(raspred)
 print('hello!')
 print('go')
+print('not')
+
 
 
    
